@@ -1,6 +1,8 @@
 <h2><b></b>다롱 다롱 다롱이🐰</h2>
 <h3><b>❤ SNS list ❤</b></h3>
-<p> <a href="https://da-y-0522.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/BLOG-000000?style=flat&logo=Storyblok&logoColor=FFFFFF"/></a></p>
+<p> <a href="https://day0522.github.io/" target="_blank"><img src="https://img.shields.io/badge/Gitblog-000000?style=flat&logo=Storyblok&logoColor=FFFFFF"/></a>
+<a href="https://da-y-0522.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Storyblok&logoColor=000000"/></a>
+</p>
 
 <h3><b>🛠 Tech Stack 🛠</b></h3>
 <h4><b>Languages</b></h4>
