@@ -8,7 +8,8 @@
 <h4><b>Languages</b></h4>
 <p><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=FFFFFF">&nbsp
 <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Python-033963?style=flat&logo=Python&logoColor=FFFFFF"></p>
+<img src="https://img.shields.io/badge/Python-033963?style=flat&logo=Python&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/java-C20000?style=flat&logo=java&logoColor=FFFFFF"></p>
 
 <h4><b>Tools</b></h4>
 <p><img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=FFFFFF"></p>
