@@ -14,7 +14,5 @@
 <h4><b>Tools</b></h4>
 <p><img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=FFFFFF"></p>
 
-![DAY0522's GitHub stats](https://github-readme-stats.vercel.app/api?username=DAY0522&show_icons=true&theme=react)
-
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=12201856)](https://solved.ac/profile/12201856)
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDAY0522&count_bg=%23ABE4FF&title_bg=%23125879&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
