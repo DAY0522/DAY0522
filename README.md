@@ -24,7 +24,6 @@
 </p>
 
 <h3><b>❤ About Me ❤</b></h3>
-<p> <a href="https://day0522.github.io/" target="_blank"><img src="https://img.shields.io/badge/Gitblog-000000?style=flat&logo=Storyblok&logoColor=FFFFFF"/></a>
 <a href="https://da-y-0522.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Storyblok&logoColor=000000"/></a>
 </p>
 
