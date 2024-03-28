@@ -8,11 +8,12 @@
 <h3><b>🛠 Tech Stack 🛠</b></h3>
 <h4><b>Languages & Framework</b></h4>
 <p>
-<img src="https://img.shields.io/badge/Python-033963?style=flat&logo=Python&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=FFFFFF">
 <br>  
 <img src="https://img.shields.io/badge/java-C20000?style=flat&logo=java&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white">
+<br>
+<img src="https://img.shields.io/badge/Python-033963?style=flat&logo=Python&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=Flask&logoColor=FFFFFF">
 <br>
 <img src="https://img.shields.io/badge/MySQL-005A9C?style=flat&logo=MySQL&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
