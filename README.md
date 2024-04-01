@@ -29,6 +29,8 @@
 <br>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira Software&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=FFFFFF">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white">
+
   
 <h3><b>❤ Blog ❤</b></h3>
 <a href="https://da-y-0522.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Storyblok&logoColor=000000"/></a>
