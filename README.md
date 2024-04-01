@@ -32,8 +32,10 @@
 <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white">
 
   
-<h3><b>❤ Blog ❤</b></h3>
+<h3><b>❤ ME ❤</b></h3>
 <a href="https://da-y-0522.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Storyblok&logoColor=000000"/></a>
+<a href="mailto:ekdud_____@naver.com"><img src="https://img.shields.io/badge/-Email-FF69B4?style=flat&logo=minutemailer&logoColor=white"/></a>
+
 </p>
 
 <h3><b> 🏆 Algorithm Level 🏆</b></h3>
