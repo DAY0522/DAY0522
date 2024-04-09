@@ -7,8 +7,7 @@
 
 <h3><b>🛠 Tech Stack 🛠</b></h3>
 <h4><b>Languages & Framework</b></h4>
-<p>
-<br>  
+<p> 
 <img src="https://img.shields.io/badge/java-C20000?style=flat&logo=java&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white">
 <br>
@@ -17,8 +16,9 @@
 <br>
 <img src="https://img.shields.io/badge/MySQL-005A9C?style=flat&logo=MySQL&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white">
-<br>
-<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
+
+<h4>Infra</h4>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white">
 
 </p>
 <h4><b>Tools</b></h4>
@@ -29,7 +29,6 @@
 <br>
 <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=Jira Software&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat&logo=Confluence&logoColor=FFFFFF">
-<img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white">
 
   
 <h3><b>❤ ME ❤</b></h3>
