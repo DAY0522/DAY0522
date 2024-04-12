@@ -34,13 +34,5 @@
 <h3><b>❤ ME ❤</b></h3>
 <a href="https://da-y-0522.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-FFFFFF?style=flat&logo=Storyblok&logoColor=000000"/></a>
 <a href="mailto:ekdud_____@naver.com"><img src="https://img.shields.io/badge/-Email-FF69B4?style=flat&logo=minutemailer&logoColor=white"/></a>
-
-</p>
-
-<h3><b> 🏆 Algorithm Level 🏆</b></h3>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=12201856)](https://solved.ac/profile/12201856)
-<a href="https://hits.seeyoufarm.com">
-
 </div>
 
