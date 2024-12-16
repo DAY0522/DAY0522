@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=D45769&height=220&section=header&text=Day's%20Gitgub&fontSize=80&&fontColor=DCDCDC" />
 
-<h3>백엔드 개발자를 꿈꾸는 뱁새를 닮은 개발자 DAY입니다🐥</h3>
+<h3>뱁새를 닮은 백엔드 개발자 DAY입니다🐥</h3>
 <h4><br>사용자 가치를 우선으로 생각하며 서비스를 개발하는 백엔드 개발자가 되기 위해 노력하고 있습니다.</h4>
 <br>
 
